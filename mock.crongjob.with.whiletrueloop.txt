@@ -1,0 +1,7 @@
+root@vmaksa69901csh # while true;
+> do
+> ./bashtest.bash 
+> sleep 180
+> done
+OK- User: d283255 is not logged in
+done
